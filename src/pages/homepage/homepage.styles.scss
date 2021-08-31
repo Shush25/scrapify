@@ -1,0 +1,150 @@
+.git-button {
+  min-width: 165px;
+  width: auto;
+  height: 50px;
+  letter-spacing: 0.5px;
+  line-height: 50px;
+  padding: 10px 35px 10px 35px;
+  font-size: 15px;
+  background-color: gold;
+  color: black;
+  text-transform: uppercase;
+  font-family: "Open Sans Condensed";
+  font-weight: bolder;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 30px;
+  font-size: 20px;
+
+  &:hover {
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+  }
+  &.scroll {
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+    &:hover {
+      background-color: white;
+      color: black;
+      border: 1px solid red;
+    }
+  }
+}
+.main-heading {
+  height: 140px;
+  margin: auto;
+  margin-bottom: 20px;
+  background-color: rgb(193, 220, 247);
+  h1 {
+    font-size: 3.2rem;
+    text-align: center;
+    font-weight: 600;
+  }
+}
+.features {
+  margin: auto;
+  max-width: 960px;
+  .para {
+    color: black;
+    h1 {
+      font-size: 1.8rem;
+      font-weight: 900;
+      margin-bottom: 20px;
+      margin-top: 30px;
+    }
+    h2 {
+      font-size: 1.2rem;
+      font-weight: 900;
+      margin-bottom: 20px;
+      margin-top: 30px;
+    }
+    p {
+      font-size: 1.1rem;
+      letter-spacing: 0.2px;
+      font-weight: 400;
+      line-height: 1.4;
+      margin-bottom: 20px;
+      text-align: left;
+    }
+    .forScroll {
+      margin-top: 50px;
+    }
+  }
+  .blocks {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 60px;
+    grid-row-gap: 32px;
+    padding: 0px 24px 50px;
+    justify-content: center;
+    img {
+      max-width: 100%;
+      position: relative;
+      align-self: center;
+      display: block;
+      width: 100%;
+      margin: auto;
+    }
+    .para {
+      color: black;
+      h1 {
+        font-size: 1.8rem;
+        font-weight: 900;
+        margin-bottom: 20px;
+        margin-top: 30px;
+      }
+      h2 {
+        font-size: 1.2rem;
+        font-weight: 900;
+        margin-bottom: 20px;
+        margin-top: 30px;
+      }
+      p {
+        font-size: 1.1rem;
+        letter-spacing: 0.2px;
+        font-weight: 400;
+        line-height: 1.4;
+        margin-bottom: 20px;
+        text-align: left;
+      }
+      .forScroll {
+        margin-top: 50px;
+      }
+    }
+  }
+}
+
+.features-max {
+  margin: auto;
+  max-width: 960px;
+  color: black;
+  .para {
+    color: black;
+    h1 {
+      font-size: 1.8rem;
+      font-weight: 900;
+      margin-bottom: 5px;
+      margin-top: 5px;
+    }
+    h2 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      margin-bottom: 10px;
+      margin-top: 15px;
+    }
+    p {
+      font-size: 1.1rem;
+      letter-spacing: 0.2px;
+      font-weight: 400;
+      line-height: 1.4;
+      margin-bottom: 50px;
+      text-align: left;
+    }
+    .forScroll {
+      margin-top: 50px;
+    }
+  }
+}
