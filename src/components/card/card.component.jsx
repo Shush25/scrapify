@@ -20,21 +20,15 @@ export const Card = (props) => (
               className="imgsty"
               alt={props.member.name}
               src={props.member.profile}
-              data-aos="custom-slideIn"
-              data-aos-duration="1100"
             />
             <h2
               style={{ fontSize: "1.5rem" }}
               className="front_text-header"
-              data-aos="custom-slideUp"
-              data-aos-duration="1800"
             >
               {props.member.name}
             </h2>
             <p
               className="front_text_para"
-              data-aos="custom-slideUp"
-              data-aos-duration="2300"
             >
               {props.member.Job}
             </p>

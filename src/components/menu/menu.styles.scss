@@ -1,43 +1,44 @@
 .header1 {
-  height: auto;
+  height: 10vh;
   width: 100%;
   display: flex;
   justify-content: space-between;
-  transform: translateY(-30px);
-  background-color: rgba(19, 19, 19, 0.3);
+  transform: translateY(-3.7vh);
+  background-color: rgba(19, 19, 19, 0.5);
   position: fixed;
   z-index: 100;
 
   .logo-container {
     height: auto;
-    width: 100px;
+    width: 12.3vh;
 
     .logo {
-      height: 80px;
-      width: 160px;
+      height: 9.9vh;
+      width: 19.7vh;
     }
   }
+
   nav {
     width: auto;
     height: 100%;
     display: flex;
     align-items: center;
-    padding: 0px 5px;
-    padding-left: 50px;
+    padding: 0 0.6vh;
+    padding-left: 6.2vh;
 
     .menu {
       display: flex;
       justify-content: flex-end;
-      padding-top: 5px;
+      margin-top: 7vh;
       width: 100%;
       height: 100%;
       list-style: none;
-      max-width: 720px;
+      max-width: 88.9vh;
     }
 
     .menu li {
-      width: 125px;
-      height: 50px;
+      width: 16vh;
+      height: 6.2vh;
       transition: background-position-x 0.9s linear;
       text-align: center;
 
@@ -51,20 +52,24 @@
           position: absolute;
           z-index: 1;
         }
+
         &:hover {
           display: block;
           background-color: rgba(255, 255, 255, 0.762);
+
           .options {
             color: gold;
           }
+
           .dropdown-content {
             display: block;
 
             .options {
-              padding: 10px;
-              margin-bottom: 15px;
-              margin-top: 20px;
+              padding: 1.2vh;
+              margin-bottom: 1.9vh;
+              margin-top: 2.5vh;
               color: grey;
+
               &:hover {
                 color: gold;
               }
@@ -75,12 +80,12 @@
 
       .options,
       a {
-        font-size: 22px;
+        font-size: 2.7vh;
         color: white;
         text-decoration: none;
         transition: all 0.45s;
         cursor: pointer;
-        height: 40px;
+        height: 4.9vh;
         font-family: Lato;
         font-weight: bold;
         overflow: hidden;
@@ -96,13 +101,13 @@
       }
 
       &:not(:last-child) {
-        margin-right: 30px;
+        margin-right: 3.7vh;
       }
     }
 
     @keyframes line {
       0% {
-        background-position-x: 390px;
+        background-position-x: 48.1vh;
       }
     }
   }

@@ -77,6 +77,19 @@
   margin: auto;
 }
 
+.main-heading {
+  height: 140px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(193, 220, 247);
+  h1 {
+    font-size: 3.2rem;
+    text-align: center;
+    font-weight: 600;
+  }
+}
+
 .work-title {
   font-size: 15px;
   font-family: "Fira Sans";

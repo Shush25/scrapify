@@ -12,10 +12,8 @@ export const Contribution = (props) => {
           <img
             src={props.styledDescription.imageUrl}
             alt="why"
-            data-aos="slide-right"
-            data-aos-duration="500"
           />
-          <div className="para" data-aos="slide-left" data-aos-duration="500">
+          <div className="para">
             <h1>{props.styledDescription.title}</h1>
             <p>
               <div
@@ -28,7 +26,7 @@ export const Contribution = (props) => {
         </div>
       ) : (
         <div className="blocks">
-          <div className="para" data-aos="slide-right" data-aos-duration="500">
+          <div className="para">
             <h1>{props.styledDescription.title}</h1>
             <p>
               <div
@@ -41,8 +39,6 @@ export const Contribution = (props) => {
           <img
             src={props.styledDescription.imageUrl}
             alt="why"
-            data-aos="slide-left"
-            data-aos-duration="500"
           />
         </div>
       )}

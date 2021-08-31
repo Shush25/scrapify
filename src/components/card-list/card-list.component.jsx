@@ -5,8 +5,6 @@ export const CardList = (props) => (
   <div className="clist">
     <div
       className="card-list"
-      data-aos="custom-slideIn"
-      data-aos-duration="500"
     >
       {props.team.map((member) => (
         <Card key={member.id} member={member} />

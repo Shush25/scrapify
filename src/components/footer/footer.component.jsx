@@ -5,7 +5,7 @@ const Footer = () => (
   <div className="footer">
     <br></br>
     <div className="foot" align="center">
-      © All rights reserved
+      Scrapify 2024 © All rights reserved
     </div>
   </div>
 );

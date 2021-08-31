@@ -1,37 +1,26 @@
 import React from "react";
 import { Contribution } from "../contribution/contribution.component";
 import "./contribution-list.styles.scss";
+
 export const ContributionList = (props) => {
   return (
     <div>
       {props.contribution.title ? (
-        <div
-          className="contri-title"
-          data-aos="slide-left"
-          data-aos-duration="500"
-        >
+        <div className="contri-title">
           {props.contribution.title}
         </div>
       ) : (
         <div></div>
       )}
       {props.contribution.heading ? (
-        <div
-          className="contri-heading"
-          data-aos="slide-left"
-          data-aos-duration="500"
-        >
+        <div className="contri-heading">
           {props.contribution.heading}
         </div>
       ) : (
         <div></div>
       )}
       {props.contribution.description ? (
-        <div
-          className="contri-para"
-          data-aos="slide-left"
-          data-aos-duration="500"
-        >
+        <div className="contri-para">
           <div
             dangerouslySetInnerHTML={{ __html: props.contribution.description }}
           />
@@ -40,11 +29,7 @@ export const ContributionList = (props) => {
         <div></div>
       )}
       {props.contribution.Mdescription ? (
-        <div
-          className="contri-mainpara"
-          data-aos="slide-left"
-          data-aos-duration="500"
-        >
+        <div className="contri-mainpara">
           <div
             dangerouslySetInnerHTML={{
               __html: props.contribution.Mdescription,
@@ -59,8 +44,6 @@ export const ContributionList = (props) => {
           <img
             src={props.contribution.imageUrl}
             alt="why"
-            data-aos="slide-right"
-            data-aos-duration="500"
             className="contri-image"
           />
         </div>
