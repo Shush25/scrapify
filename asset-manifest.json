@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/scrapify/static/css/main.9a2beca5.chunk.css",
+    "main.js": "/scrapify/static/js/main.6750b77e.chunk.js",
+    "main.js.map": "/scrapify/static/js/main.6750b77e.chunk.js.map",
+    "runtime-main.js": "/scrapify/static/js/runtime-main.82bc29dd.js",
+    "runtime-main.js.map": "/scrapify/static/js/runtime-main.82bc29dd.js.map",
+    "static/css/2.7b21c299.chunk.css": "/scrapify/static/css/2.7b21c299.chunk.css",
+    "static/js/2.6191c964.chunk.js": "/scrapify/static/js/2.6191c964.chunk.js",
+    "static/js/2.6191c964.chunk.js.map": "/scrapify/static/js/2.6191c964.chunk.js.map",
+    "static/js/3.bdc6a464.chunk.js": "/scrapify/static/js/3.bdc6a464.chunk.js",
+    "static/js/3.bdc6a464.chunk.js.map": "/scrapify/static/js/3.bdc6a464.chunk.js.map",
+    "index.html": "/scrapify/index.html",
+    "precache-manifest.3a6118e2d10c690af6f01f788c6f2983.js": "/scrapify/precache-manifest.3a6118e2d10c690af6f01f788c6f2983.js",
+    "service-worker.js": "/scrapify/service-worker.js",
+    "static/css/2.7b21c299.chunk.css.map": "/scrapify/static/css/2.7b21c299.chunk.css.map",
+    "static/css/main.9a2beca5.chunk.css.map": "/scrapify/static/css/main.9a2beca5.chunk.css.map",
+    "static/js/2.6191c964.chunk.js.LICENSE.txt": "/scrapify/static/js/2.6191c964.chunk.js.LICENSE.txt",
+    "static/media/about-bg.png": "/scrapify/static/media/about-bg.6594d839.png",
+    "static/media/community.png": "/scrapify/static/media/community.c6862e0c.png",
+    "static/media/efficiency.png": "/scrapify/static/media/efficiency.ffef44ac.png",
+    "static/media/goal.jpg": "/scrapify/static/media/goal.269cc7c9.jpg",
+    "static/media/home-bg.jpg": "/scrapify/static/media/home-bg.daa2a4fd.jpg",
+    "static/media/innovations.png": "/scrapify/static/media/innovations.81b384fa.png",
+    "static/media/insights.png": "/scrapify/static/media/insights.1dd24af4.png",
+    "static/media/logo.png": "/scrapify/static/media/logo.a1d5940d.png",
+    "static/media/monitoring_system.png": "/scrapify/static/media/monitoring_system.c0074194.png",
+    "static/media/savings.png": "/scrapify/static/media/savings.81d5e19d.png",
+    "static/media/scrap_management.png": "/scrapify/static/media/scrap_management.4a803793.png",
+    "static/media/vision.jpg": "/scrapify/static/media/vision.64055459.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82bc29dd.js",
+    "static/css/2.7b21c299.chunk.css",
+    "static/js/2.6191c964.chunk.js",
+    "static/css/main.9a2beca5.chunk.css",
+    "static/js/main.6750b77e.chunk.js"
+  ]
+}
