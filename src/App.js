@@ -17,7 +17,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <BrowserRouter basename="/DA_website">
+        <BrowserRouter basename="/scrapify">
           <ScrollToTop />
           <div>
             <Menu />
