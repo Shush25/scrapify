@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/scrapify/static/css/main.9a2beca5.chunk.css",
-    "main.js": "/scrapify/static/js/main.6750b77e.chunk.js",
-    "main.js.map": "/scrapify/static/js/main.6750b77e.chunk.js.map",
+    "main.js": "/scrapify/static/js/main.3002d2bb.chunk.js",
+    "main.js.map": "/scrapify/static/js/main.3002d2bb.chunk.js.map",
     "runtime-main.js": "/scrapify/static/js/runtime-main.82bc29dd.js",
     "runtime-main.js.map": "/scrapify/static/js/runtime-main.82bc29dd.js.map",
     "static/css/2.7b21c299.chunk.css": "/scrapify/static/css/2.7b21c299.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.bdc6a464.chunk.js": "/scrapify/static/js/3.bdc6a464.chunk.js",
     "static/js/3.bdc6a464.chunk.js.map": "/scrapify/static/js/3.bdc6a464.chunk.js.map",
     "index.html": "/scrapify/index.html",
-    "precache-manifest.3a6118e2d10c690af6f01f788c6f2983.js": "/scrapify/precache-manifest.3a6118e2d10c690af6f01f788c6f2983.js",
+    "precache-manifest.5d01b82532f28b5c7678e2f67dd8f4ef.js": "/scrapify/precache-manifest.5d01b82532f28b5c7678e2f67dd8f4ef.js",
     "service-worker.js": "/scrapify/service-worker.js",
     "static/css/2.7b21c299.chunk.css.map": "/scrapify/static/css/2.7b21c299.chunk.css.map",
     "static/css/main.9a2beca5.chunk.css.map": "/scrapify/static/css/main.9a2beca5.chunk.css.map",
@@ -34,6 +34,6 @@
     "static/css/2.7b21c299.chunk.css",
     "static/js/2.6191c964.chunk.js",
     "static/css/main.9a2beca5.chunk.css",
-    "static/js/main.6750b77e.chunk.js"
+    "static/js/main.3002d2bb.chunk.js"
   ]
 }

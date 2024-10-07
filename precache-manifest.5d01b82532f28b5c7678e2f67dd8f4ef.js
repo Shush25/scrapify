@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35898b4318a8e11a81e2dcde82f197c2",
+    "revision": "70a6a9161bb2036ad6aeffc43f895d8a",
     "url": "/scrapify/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scrapify/static/css/2.7b21c299.chunk.css"
   },
   {
-    "revision": "5d808f734601036ef69d",
+    "revision": "f0c80d281147dad255ef",
     "url": "/scrapify/static/css/main.9a2beca5.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scrapify/static/js/3.bdc6a464.chunk.js"
   },
   {
-    "revision": "5d808f734601036ef69d",
-    "url": "/scrapify/static/js/main.6750b77e.chunk.js"
+    "revision": "f0c80d281147dad255ef",
+    "url": "/scrapify/static/js/main.3002d2bb.chunk.js"
   },
   {
     "revision": "5c794458528f591e98c9",
