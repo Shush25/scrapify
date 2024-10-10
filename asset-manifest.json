@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/scrapify/static/css/main.9a2beca5.chunk.css",
-    "main.js": "/scrapify/static/js/main.3002d2bb.chunk.js",
-    "main.js.map": "/scrapify/static/js/main.3002d2bb.chunk.js.map",
-    "runtime-main.js": "/scrapify/static/js/runtime-main.82bc29dd.js",
-    "runtime-main.js.map": "/scrapify/static/js/runtime-main.82bc29dd.js.map",
+    "main.css": "/scrapify/static/css/main.301e26b4.chunk.css",
+    "main.js": "/scrapify/static/js/main.257555d8.chunk.js",
+    "main.js.map": "/scrapify/static/js/main.257555d8.chunk.js.map",
+    "runtime-main.js": "/scrapify/static/js/runtime-main.b050c4ab.js",
+    "runtime-main.js.map": "/scrapify/static/js/runtime-main.b050c4ab.js.map",
     "static/css/2.7b21c299.chunk.css": "/scrapify/static/css/2.7b21c299.chunk.css",
     "static/js/2.6191c964.chunk.js": "/scrapify/static/js/2.6191c964.chunk.js",
     "static/js/2.6191c964.chunk.js.map": "/scrapify/static/js/2.6191c964.chunk.js.map",
-    "static/js/3.bdc6a464.chunk.js": "/scrapify/static/js/3.bdc6a464.chunk.js",
-    "static/js/3.bdc6a464.chunk.js.map": "/scrapify/static/js/3.bdc6a464.chunk.js.map",
+    "static/js/3.13fd0f61.chunk.js": "/scrapify/static/js/3.13fd0f61.chunk.js",
+    "static/js/3.13fd0f61.chunk.js.map": "/scrapify/static/js/3.13fd0f61.chunk.js.map",
     "index.html": "/scrapify/index.html",
-    "precache-manifest.5d01b82532f28b5c7678e2f67dd8f4ef.js": "/scrapify/precache-manifest.5d01b82532f28b5c7678e2f67dd8f4ef.js",
+    "precache-manifest.8ea968ea0205c072b3922656feb7c1a3.js": "/scrapify/precache-manifest.8ea968ea0205c072b3922656feb7c1a3.js",
     "service-worker.js": "/scrapify/service-worker.js",
     "static/css/2.7b21c299.chunk.css.map": "/scrapify/static/css/2.7b21c299.chunk.css.map",
-    "static/css/main.9a2beca5.chunk.css.map": "/scrapify/static/css/main.9a2beca5.chunk.css.map",
+    "static/css/main.301e26b4.chunk.css.map": "/scrapify/static/css/main.301e26b4.chunk.css.map",
     "static/js/2.6191c964.chunk.js.LICENSE.txt": "/scrapify/static/js/2.6191c964.chunk.js.LICENSE.txt",
     "static/media/about-bg.png": "/scrapify/static/media/about-bg.6594d839.png",
     "static/media/community.png": "/scrapify/static/media/community.c6862e0c.png",
@@ -30,10 +30,10 @@
     "static/media/vision.jpg": "/scrapify/static/media/vision.64055459.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.82bc29dd.js",
+    "static/js/runtime-main.b050c4ab.js",
     "static/css/2.7b21c299.chunk.css",
     "static/js/2.6191c964.chunk.js",
-    "static/css/main.9a2beca5.chunk.css",
-    "static/js/main.3002d2bb.chunk.js"
+    "static/css/main.301e26b4.chunk.css",
+    "static/js/main.257555d8.chunk.js"
   ]
 }

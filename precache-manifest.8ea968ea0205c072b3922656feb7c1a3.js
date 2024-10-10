@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70a6a9161bb2036ad6aeffc43f895d8a",
+    "revision": "5b62510087f09c5a2df2cc8d2133f96b",
     "url": "/scrapify/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scrapify/static/css/2.7b21c299.chunk.css"
   },
   {
-    "revision": "f0c80d281147dad255ef",
-    "url": "/scrapify/static/css/main.9a2beca5.chunk.css"
+    "revision": "5d7eb9a5c54fa337e686",
+    "url": "/scrapify/static/css/main.301e26b4.chunk.css"
   },
   {
     "revision": "aacbe1ee6a0d2378cb45",
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scrapify/static/js/2.6191c964.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "200f85884ada37b38154",
-    "url": "/scrapify/static/js/3.bdc6a464.chunk.js"
+    "revision": "51a2034138947fa201b5",
+    "url": "/scrapify/static/js/3.13fd0f61.chunk.js"
   },
   {
-    "revision": "f0c80d281147dad255ef",
-    "url": "/scrapify/static/js/main.3002d2bb.chunk.js"
+    "revision": "5d7eb9a5c54fa337e686",
+    "url": "/scrapify/static/js/main.257555d8.chunk.js"
   },
   {
-    "revision": "5c794458528f591e98c9",
-    "url": "/scrapify/static/js/runtime-main.82bc29dd.js"
+    "revision": "b5f2d60b4d95a85ba95b",
+    "url": "/scrapify/static/js/runtime-main.b050c4ab.js"
   },
   {
     "revision": "6594d8392fafdf5447a87c8ae63df024",
